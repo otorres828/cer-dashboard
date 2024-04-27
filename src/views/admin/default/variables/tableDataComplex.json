@@ -1,47 +1,47 @@
 [
   {
     "name":"Trabajos",
-    "ingreso": "Approved",
+    "ingreso": 54.7,
     "consumo": 51.5  
   },
   {
     "name":"Remesas",
-    "ingreso": "Disable",
+    "ingreso": 3.8,
     "consumo": 25 
   },
   {
     "name":"Pensiones",
-    "ingreso": "Error",
+    "ingreso": 19.2,
     "consumo": 9.3
   },
   {
     "name":"No tengo fuente de ingresos",
-    "ingreso": "Approved",
+    "ingreso": 15.2,
     "consumo": 4.4 
   },
   {
     "name":"Otras fuentes de ingreso",
-    "ingreso": "Approved",
+    "ingreso": 22.7,
     "consumo": 4 
   },
   {
     "name":"Bonos del gobierno",
-    "ingreso": "Approved",
+    "ingreso": 74.6,
     "consumo": 2.4 
   },
   {
     "name":"Ayuda de familiar en Venezuela",
-    "ingreso": "Approved",
+    "ingreso": 12.7,
     "consumo": 2.9
   },  
   {
     "name":"Trabajos eventuales",
-    "ingreso": "Approved",
+    "ingreso": 4.7,
     "consumo": 0.6
   },
   {
     "name":"Manutención/del esposo ",
-    "ingreso": "Approved",
+    "ingreso": 4.7,
     "consumo": 0.6
   }
 ]
