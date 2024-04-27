@@ -1,0 +1,19 @@
+[{
+  "name":["Promedio de ingreso individual",false],
+  "progress": 91.20, 
+  "date": "12 Jan 2021",
+  "quantity": 117.65  
+},
+{
+  "name":["Promedio de ingreso complemento familiar",true],
+  "quantity": 96.33, 
+  "date": "21 Feb 2021",
+  "progress": 138.98  
+},
+{
+  "name":["Promedio de ingreso familiar total ",true],
+  "quantity": 213.98, 
+  "date": "13 Mar 2021",
+  "progress": 127.20 
+}
+]
