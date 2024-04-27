@@ -20,13 +20,13 @@ const routes = [
     icon: <Icon as={MdHome} width='20px' height='20px' color='inherit' />,
     component: MainDashboard,
   },
-  {
-    name: "RESULTADOS",
-    layout: "/admin",
-    icon: <Icon as={MdBarChart} width='20px' height='20px' color='inherit' />,
-    path: "/resultados",
-    component: DataTables,
-  },
+  // {
+  //   name: "RESULTADOS",
+  //   layout: "/admin",
+  //   icon: <Icon as={MdBarChart} width='20px' height='20px' color='inherit' />,
+  //   path: "/resultados",
+  //   component: DataTables,
+  // },
   // {
   //   name: "INFORMACION",
   //   layout: "/admin",
