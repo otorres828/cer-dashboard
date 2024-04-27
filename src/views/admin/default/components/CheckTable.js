@@ -81,7 +81,7 @@ export default function CheckTable(props) {
                     align='center'
                     fontSize={{ sm: "10px", lg: "12px" }}
                     color='gray.400'>
-                    {column.render("Header")}
+                    {column.render("Header") == 'NAME' ? 'Descripcion' : column.render("Header")}
                   </Flex>
                 </Th>
               ))}
@@ -112,7 +112,7 @@ export default function CheckTable(props) {
                           color={textColor}
                           fontSize='sm'
                           fontWeight='700'>
-                          {cell.value}%
+                          {cell.value}
                         </Text>
                       </Flex>
                     );
